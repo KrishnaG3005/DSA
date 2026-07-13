@@ -29,4 +29,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/KrishnaG3005/DSA/tree/master/1331-rank-transform-of-an-array) |
+## Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/KrishnaG3005/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/KrishnaG3005/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/KrishnaG3005/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->

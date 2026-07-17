@@ -27,10 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KrishnaG3005/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/KrishnaG3005/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/KrishnaG3005/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/KrishnaG3005/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/KrishnaG3005/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sorting
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KrishnaG3005/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/KrishnaG3005/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/KrishnaG3005/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [3312-sorted-gcd-pair-queries](https://github.com/KrishnaG3005/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Tree
 |  |
 | ------- |
@@ -74,4 +77,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KrishnaG3005/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Math
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/KrishnaG3005/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/KrishnaG3005/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/KrishnaG3005/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+## Number Theory
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/KrishnaG3005/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+## Prefix Sum
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/KrishnaG3005/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->

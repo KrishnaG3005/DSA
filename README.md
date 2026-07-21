@@ -28,17 +28,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KrishnaG3005/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/KrishnaG3005/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KrishnaG3005/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KrishnaG3005/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2974-minimum-number-game](https://github.com/KrishnaG3005/DSA/tree/master/2974-minimum-number-game) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KrishnaG3005/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/KrishnaG3005/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KrishnaG3005/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KrishnaG3005/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sorting
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/KrishnaG3005/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KrishnaG3005/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2974-minimum-number-game](https://github.com/KrishnaG3005/DSA/tree/master/2974-minimum-number-game) |
 ## Tree
 |  |
@@ -105,9 +108,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KrishnaG3005/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2974-minimum-number-game](https://github.com/KrishnaG3005/DSA/tree/master/2974-minimum-number-game) |
 ## Simulation
 |  |
 | ------- |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KrishnaG3005/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2974-minimum-number-game](https://github.com/KrishnaG3005/DSA/tree/master/2974-minimum-number-game) |
+## Greedy
+|  |
+| ------- |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KrishnaG3005/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->

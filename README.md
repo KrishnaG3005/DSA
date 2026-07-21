@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KrishnaG3005/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/KrishnaG3005/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KrishnaG3005/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2974-minimum-number-game](https://github.com/KrishnaG3005/DSA/tree/master/2974-minimum-number-game) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KrishnaG3005/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/KrishnaG3005/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [2974-minimum-number-game](https://github.com/KrishnaG3005/DSA/tree/master/2974-minimum-number-game) |
 ## Tree
 |  |
 | ------- |
@@ -100,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/KrishnaG3005/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/KrishnaG3005/DSA/tree/master/2974-minimum-number-game) |
+## Simulation
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/KrishnaG3005/DSA/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->

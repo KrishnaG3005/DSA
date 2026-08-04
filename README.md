@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/KrishnaG3005/DSA/tree/master/0115-distinct-subsequences) |
 | [1406-stone-game-iii](https://github.com/KrishnaG3005/DSA/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
@@ -139,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/KrishnaG3005/DSA/tree/master/1406-stone-game-iii) |
+## String
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/KrishnaG3005/DSA/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->

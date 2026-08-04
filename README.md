@@ -33,18 +33,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KrishnaG3005/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2974-minimum-number-game](https://github.com/KrishnaG3005/DSA/tree/master/2974-minimum-number-game) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KrishnaG3005/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3731-find-missing-elements](https://github.com/KrishnaG3005/DSA/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/KrishnaG3005/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KrishnaG3005/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KrishnaG3005/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3731-find-missing-elements](https://github.com/KrishnaG3005/DSA/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/KrishnaG3005/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/KrishnaG3005/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2974-minimum-number-game](https://github.com/KrishnaG3005/DSA/tree/master/2974-minimum-number-game) |
+| [3731-find-missing-elements](https://github.com/KrishnaG3005/DSA/tree/master/3731-find-missing-elements) |
 ## Tree
 |  |
 | ------- |
